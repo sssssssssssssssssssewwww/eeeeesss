@@ -1,0 +1,10 @@
+node_modules
+*min.css
+*min.js
+*md
+*webmanifest
+docs/
+dashboard/static/js/arc.js
+database/
+package-lock.json
+package.json
